@@ -276,7 +276,6 @@ ListItem* searchKMP (BitSeq* seq, BitSeq* pattern) {
         }
 
     }
-    printf("hhelo\n");
     return result;
 
 }
