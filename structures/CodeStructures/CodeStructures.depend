@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1507395672 source:/home/pochtalionizm/web/c/projects/structures-3/mainStack.c
+	"stacketal.h"
+	"structures.h"
+	"../arrays/array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507385774 /home/pochtalionizm/web/c/projects/structures-3/stacketal.h
+
+1507385890 /home/pochtalionizm/web/c/projects/structures-3/structures.h
+	"structures.h"
+	"../arrays/array.h"
+
+1507227309 /home/pochtalionizm/web/c/projects/arrays/array.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1507395117 source:/home/pochtalionizm/web/c/projects/structures-3/stacketal.c
+	<stdlib.h>
+	<stdio.h>
+	"../arrays/array.h"
+	"stacketal.h"
+
+1507395622 source:/home/pochtalionizm/web/c/projects/structures-3/structures.c
+	"structures.h"
+	"stacketal.h"
+	<stdio.h>
+
+1507386978 source:/home/pochtalionizm/web/c/projects/arrays/array.c
+	"array.h"
+

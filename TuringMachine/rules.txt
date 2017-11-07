@@ -1,0 +1,7 @@
+qi abbaa 3 -
+qi a a qi 1
+qi b b qi 1
+qi - * q0 2  
+q0 a b q0 2
+q0 b a q0 2
+q0 - * qt 0

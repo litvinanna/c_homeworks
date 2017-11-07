@@ -1,0 +1,11 @@
+qi <abbaaaab> 1 -
+qi a a qa 2
+qi b b qb 2
+qi < < qi 2 
+qa a a qa 2 
+qa b b qb 2
+qa > > qt 0
+qb a b qx 1
+qb b b qb 2
+qb > > qt 0
+qx b a qi 1 

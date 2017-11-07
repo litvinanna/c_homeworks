@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1508175954 source:/home/pochtalionizm/web/c/projects/structures-3/mainRBTree.c
+	"tree.h"
+	<stdlib.h>
+
+1508175848 /home/pochtalionizm/web/c/projects/structures-3/tree.h
+
+1508176250 source:/home/pochtalionizm/web/c/projects/structures-3/RBTree/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508176216 source:/home/pochtalionizm/web/c/projects/structures-3/tree.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tree.h"
+
